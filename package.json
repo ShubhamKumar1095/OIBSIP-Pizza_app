@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itxSaaad/pizza-delivery-system-app-mern-OIBSIP.git"
+    "url": "git+https://github.com/ShubhamKumar1095/OIBSIP-Pizza_app.git"
   },
   "keywords": [
     "nodejs",
@@ -30,9 +30,9 @@
   "author": "Muhammad Saad",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/itxSaaad/pizza-delivery-system-app-mern-OIBSIP/issues"
+    "url": "https://github.com/ShubhamKumar1095/OIBSIP-Pizza_app/issues"
   },
-  "homepage": "https://github.com/itxSaaad/pizza-delivery-system-app-mern-OIBSIP#readme",
+  "homepage": "https://github.com/ShubhamKumar1095/OIBSIP-Pizza_app#readme",
   "devDependencies": {
     "concurrently": "^8.2.0"
   },
