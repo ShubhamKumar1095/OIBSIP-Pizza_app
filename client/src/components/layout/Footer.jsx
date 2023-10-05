@@ -11,7 +11,7 @@ function Footer() {
             rel="noopener noreferrer"
             className="text-white hover:text-orange-800 underline underline-offset-4"
           >
-            Muhammad Saad
+            Shubham Kumar
           </a>
         </p>
       </div>
